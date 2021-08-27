@@ -1,4 +1,4 @@
-=========== SIGN LANGUAGE DETECTION USING CONVOLUTIONAL NEURAL NETWORKS (CNNs) ===========
+========== SIGN LANGUAGE DETECTION USING CONVOLUTIONAL NEURAL NETWORKS (CNNs) ==========
                                                                                                                       
 * TECHNOLOGIES USED :-                                                                                             
                                                                                                                    
